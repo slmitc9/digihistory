@@ -7,7 +7,7 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # Women Throughout History
-
+Women are a huge part of history.  They are usually ignored though. Women's history is important. 
 ## Introduction
 
 Here's some sample text, written in Markdown.
