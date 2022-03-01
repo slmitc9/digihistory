@@ -8,6 +8,10 @@ permalink: /essay-01.html
 
 # Women Throughout History
 Women are a huge part of history.  They are usually ignored though. Women's history is important. 
+*italic* **bold** [click here](https://www.minecraft.net/en-us)
+1. one
+2. two
+3. three
 ## Introduction
 
 Here's some sample text, written in Markdown.
