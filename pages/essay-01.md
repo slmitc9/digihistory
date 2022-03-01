@@ -12,6 +12,8 @@ Women are a huge part of history.  They are usually ignored though. Women's hist
 1. one
 2. two
 3. three
+
+{% include feature/line-chart.html data="sotu-20th-century" topic="Military" %}
 ## Introduction
 
 Here's some sample text, written in Markdown.
