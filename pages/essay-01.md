@@ -14,6 +14,7 @@ Women are a huge part of history.  They are usually ignored though. Women's hist
 3. three
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="Military" %}
+This is just an interesting topic to me. Women were not really a part of the military for a long time and when they were they were relegated to secretarial and nursing positions. 
 ## Introduction
 
 Here's some sample text, written in Markdown.
