@@ -31,6 +31,8 @@ permalink: /essay-01.html
 	hear women speak in public,” (Gilmore & Sugrue 2015).  With the disdain of the president clear, women’s groups were fighting an uphill political battle for suffrage from
 	the beginning of the century. 
 	
+	{% include feature/line-chart.html data="party-platforms-1900-1944-all" topic=" Suffrage" %}
+	
 		After the outbreak of World War I, Wilson continued to avoid granting women suffrage, citing the need to focus on the war above all else.  Leaders of the NWP and
 	NWSA capitulated and agreed not to press the issue of suffrage until after the war was over, with the understanding that Wilson would be more willing to work with them
 	if they did this.  The fact that many states had individually begun to grant women suffrage was also a boon to their cause as they felt this acceptance lent their fight
@@ -58,6 +60,8 @@ permalink: /essay-01.html
 	been available for them before.  They could support themselves and their families without a man, allowing some women to choose not to marry or even to leave a partner
 	who had been abusive to them.  Obviously, this was not a panacea, but it was a stark improvement for women and their ability to make their own choices and live their own
 	lives.  
+	
+	{% include feature/line-chart.html data="party-platforms-1900-1944-all" topic=" Women & Labor" %}
 	
 		Finally, over the first half of the twentieth century, women were able to enter the political sphere and advocate not only for themselves, but for improvements
 	in society as whole.  Urban planning was a heavy focus as cities were unorganized and essentially cesspools of garbage, human waste, and disease (Gilmore & Sugrue 2015).
