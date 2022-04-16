@@ -28,6 +28,7 @@ if they did this.  The fact that many states had individually begun to grant wom
 Women’s suffrage was far from the only inhibition that the female gender faced in the American sphere however, paid labor was also a significant handicap for
 women looking to make their own way in the world.  Women worked primarily in the domestic sector for most of history, with a huge majority having never been employed
 outside of the home (Sawaya 2003).  Women were foremost homemakers and in charge of the production and care of children.  When they did work outside the home, which was not often, it was still usually within the domestic sphere such as childcare, sewing, or laundry.  The onset of World War I began to change this however, as thousands of men went off to fight, leaving a labor vacuum that needed to be filled as quickly as possible.  In 1910 only about twenty five percent of women held a job outside the home, this number increased during the first World War, but quickly dropped again after the war ended and the men returned home and demanded their jobs back, leaving women who had just gained the right to vote almost back where they started (Gilmore & Sugrue 2015).  With the onset of the Great Depression, employment dropped drastically among all sectors of society and while a small recovery was made under Franklin D. Roosevelt (FDR), ultimately the boon to employment rates for both men and women was the second World War.  By 1945, there were eighteen million women in the workforce, many of them working for the defense industry (Sawaya 2003).  Because of a combination of factors, i.e. their husbands being out of the country and making their own money and being in sole control of it for the first time in their lives, women experienced a higher level of autonomy and freedom in the United States than they had ever had before. 
+
 At the close of the war, men returned and sought to take their jobs back.  Unions facilitated these demands, and a percentage of women did lose their employment,
 however, many women kept their jobs and continued to make a living and work outside the home (Gilmore & Sugrue 2015).  This afforded women opportunities that had never
 been available for them before.  They could support themselves and their families without a man, allowing some women to choose not to marry or even to leave a partner
@@ -47,20 +48,20 @@ campaigning, protests, and even jail time.  They were allowed to work outside th
 	
 ## Notes
 
-	Breiseth, Christopher. "The Frances Perkins I Knew." ensayo, Franklin D. Roosevelt American Heritage Center Museum, Worcester (1966).
+Breiseth, Christopher. "The Frances Perkins I Knew." ensayo, Franklin D. Roosevelt American Heritage Center Museum, Worcester (1966).
 	
-	Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
+Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 	
-	Harris & Ewing, Washington, D.C. Women marching in national suffrage demonstration in Washington, D.C., May 9. United States Washington D.C, 1914. May 9. Photograph.
-	https://www.loc.gov/item/mnwp000268/.
+Harris & Ewing, Washington, D.C. Women marching in national suffrage demonstration in Washington, D.C., May 9. United States Washington D.C, 1914. May 9. Photograph.
+https://www.loc.gov/item/mnwp000268/.
 	
-	National Photo Co., Washington, D.C. National Woman's Party activists watch Alice Paul sew a star onto the NWP Ratification Flag, representing another state's
-	ratification of the 19th Amendment. United States Washington D.C, ca. 1919. [to 1920] Photograph. https://www.loc.gov/item/mnwp000263/.
+National Photo Co., Washington, D.C. National Woman's Party activists watch Alice Paul sew a star onto the NWP Ratification Flag, representing another state's
+ratification of the 19th Amendment. United States Washington D.C, ca. 1919. [to 1920] Photograph. https://www.loc.gov/item/mnwp000263/.
 	
-	Sawaya, Francesca. Modern Women, Modern Work : Domesticity, Professionalism, and American Writing, 189-195. Philadelphia: University of Pennsylvania Press, 2003.
-	Accessed March 13, 2022. ProQuest Ebook Central.
+Sawaya, Francesca. Modern Women, Modern Work : Domesticity, Professionalism, and American Writing, 189-195. Philadelphia: University of Pennsylvania Press, 2003.
+Accessed March 13, 2022. ProQuest Ebook Central.
 	
-	Underwood & Underwood, Washington, D.C. Cell at Occoquan Workhouse. United States Virginia, ca. 1917. Photograph. https://www.loc.gov/item/mnwp000236/.
+Underwood & Underwood, Washington, D.C. Cell at Occoquan Workhouse. United States Virginia, ca. 1917. Photograph. https://www.loc.gov/item/mnwp000236/.
 	
-	Women of Protest: Photographs from the Records of the National Woman's Party, Manuscript Division, Library of Congress, Washington, D.C.
-	https://www.loc.gov/collections/women-of-protest/about-this-collection/rights-and-access/. 
+Women of Protest: Photographs from the Records of the National Woman's Party, Manuscript Division, Library of Congress, Washington, D.C.
+https://www.loc.gov/collections/women-of-protest/about-this-collection/rights-and-access/. 
