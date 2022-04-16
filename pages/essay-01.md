@@ -10,7 +10,7 @@ permalink: /essay-01.html
 
 ---
 
-##Introduction
+## Introduction
 
 Throughout the centuries women have been subjugated and exploited, their labor consistently devalued.  This was still very much the case at the dawn of the
 twentieth century.  Women were denied suffrage, largely contained to domestic work, and treated more like property than human beings.  In the history of the United
@@ -47,7 +47,7 @@ most women voted along the same party lines as their husbands).  The Roosevelts 
 concrete reality.  Perkins served for more than twelve years as the Secretary of Labor and accomplished a myriad of things that women would have never even been given
 the opportunity to decades or ever years before (Breiseth 1966).  Like many women throughout history who dared to step outside their socially accepted bounds, she faced her fair share of criticism and harassment, once even braving tomatoes and eggs being thrown at her during a speech.  Despite this, she carried on as if nothing had happened, stating after it was over “that’s politics,” (Breisith 1966).  Because of her bravery, and the bravery of so many women like her, politics slowly became more acceptable for women to participate in.  This shift was also due to a few key men who respected women enough to allow them in the political arena in the first place. While there was still much progress to be made, it was undoubtedly a historical moment for gender equality. 
 
-##Conclusion
+## Conclusion
 
 In conclusion, the first half of the twentieth century was a turning point for women’s rights.  They gained the right to suffrage, after many decades of
 campaigning, protests, and even jail time.  They were allowed to work outside the home in greater numbers than ever before, allowing them an independence they have never known before, and they were finally allowed into the political sphere in a way that they never had been before.  While there was still much progress to be made, had these important events not taken place women would still be subjugated, we owe these brave women of the early twentieth century more than we know.
