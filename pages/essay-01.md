@@ -19,7 +19,9 @@ change in regard to women’s autonomy and ability to choose (and vote) for them
 enter the workforce, or participate in politics, meant that women had more opportunities than ever before in the United States.  In this paper we will explore how
 changing attitudes and important historical events intertwined to create a society that was on the trend towards gender equality, even if there was still a long way to
 go.
-	
+
+## Suffrage
+
 At the beginning of the twentieth century women were not allowed to vote.  While historically this had been the status quo for a long time, there was a growing
 faction of society that was pressing for women’s suffrage.  While this movement consisted of mostly women, there were also men who believed in women’s right to suffrage and they did support and advocate for the movement.  Additionally, abolitionist and feminist movements tended to have a lot of overlap historically speaking, as they were seeking a similar level of equality (Gilmore & Sugrue 2015).  While slavery was a travesty of epic proportions that had taken advantage of Africans and African Americans for a couple centuries in the United States, women were also held in a kind of domestic slavery for centuries as well and denied certain rights and liberties that were readily available to white men.  This gave abolitionists and women’s rights groups a level of common ground, leading them to support each other’s movements to some extent.  That being said, at the dawn of the twentieth century, African American men were granted 3/5 of a vote, while women were still barred from the polls completely (Gilmore & Sugrue 2015).  Thus, the first major societal movement for women in this century began to ramp up dramatically.  Multiple groups such as the National Woman's Party (NWP), and the National Woman Suffrage Association (NWSA) began to campaign in earnest for suffrage and they were not taking no for an answer, despite how many men wanted them to (WP 2022).  President Woodrow Wilson was one of these men.  The day before his inauguration as he got off the train, he was shocked to see no one was waiting for him as they were all at a women’s march a few blocks over (Harris & Ewing 1914).  Wilson, who would normally have described himself as shy was definitely not shy about his disdain for women in politics, explicitly stating that he felt a “chilled, scandalized feeling that always comes over me when I see and hear women speak in public,” (Gilmore & Sugrue 2015).  With the disdain of the president clear, women’s groups were fighting an uphill political battle for suffrage from the beginning of the century. 
 	
@@ -28,6 +30,8 @@ faction of society that was pressing for women’s suffrage.  While this movemen
 After the outbreak of World War I, Wilson continued to avoid granting women suffrage, citing the need to focus on the war above all else.  Leaders of the NWP and
 NWSA capitulated and agreed not to press the issue of suffrage until after the war was over, with the understanding that Wilson would be more willing to work with them
 if they did this.  The fact that many states had individually begun to grant women suffrage was also a boon to their cause as they felt this acceptance lent their fight more credence, credence that the president, ultimately, could no longer ignore (National Photo Co. 1919).  After the conclusion of the war, Wilson kept his promise and supported the ratification of the nineteenth amendment.  This was not without the significant effort that women like Alice Paul and Carrie Chapman Catt poured into the cause, in some instances going on hunger strikes, marching excessively, and tirelessly working on political campaigns.  Here are just a few pictures that exemplify this arduous task.  Finally, in 1920 women were granted the right to vote.  This legislative decision came down to just one single vote, by Harry Thomas Burn, who after voting no twice, was, as poetically as it might sound, influenced by his own mother to vote yes (Gilmore & Sugrue 2015).  The United States had existed for 150 years before it finally granted women the right to participate politically.
+
+## Labor
 	
 Women’s suffrage was far from the only inhibition that the female gender faced in the American sphere however, paid labor was also a significant handicap for
 women looking to make their own way in the world.  Women worked primarily in the domestic sector for most of history, with a huge majority having never been employed
@@ -39,6 +43,8 @@ been available for them before.  They could support themselves and their familie
 who had been abusive to them.  Obviously, this was not a panacea, but it was a stark improvement for women and their ability to make their own choices and live their own lives.  
 	
 	{% include feature/line-chart.html data="party-platforms-1900-1944-all" topic=" Women & Labor" %}
+	
+## Politics	
 	
 Finally, over the first half of the twentieth century, women were able to enter the political sphere and advocate not only for themselves, but for improvements
 in society as whole.  Urban planning was a heavy focus as cities were unorganized and essentially cesspools of garbage, human waste, and disease (Gilmore & Sugrue 2015). This was something that women could address without heavy male backlash as it was viewed as an extension of the domestic sphere they already operated within.
