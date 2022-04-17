@@ -10,7 +10,7 @@ permalink: /essay-01.html
 
 ---
 
-{% include feature/image.html filename="feature-image.jpg" alt="image of a word cloud generated from Party Platform texts from the years 1900-1944" caption="Party Platform Word Cloud" width="75" %}
+{% include feature/image.html filename="sotu-word-cloud.png" alt="image of a word cloud generated from Party Platform texts from the years 1900-1944" width="75" %}
 
 ## Introduction
 
