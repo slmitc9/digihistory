@@ -55,6 +55,8 @@ most women voted along the same party lines as their husbands).  The Roosevelts 
 concrete reality.  Perkins served for more than twelve years as the Secretary of Labor and accomplished a myriad of things that women would have never even been given
 the opportunity to decades or ever years before. [^14]  Like many women throughout history who dared to step outside their socially accepted bounds, she faced her fair share of criticism and harassment, once even braving tomatoes and eggs being thrown at her during a speech.  Despite this, she carried on as if nothing had happened, stating after it was over “that’s politics.” [^15]  Because of her bravery, and the bravery of so many women like her, politics slowly became more acceptable for women to participate in.  This shift was also due to a few key men who respected women enough to allow them in the political arena in the first place. While there was still much progress to be made, it was undoubtedly a historical moment for gender equality. 
 
+{% include feature/line-chart.html data="party-platforms-1948-2000-all" topic=" social issues" %}
+
 ## Conclusion
 
 In conclusion, the first half of the twentieth century was a turning point for women’s rights.  They gained the right to suffrage, after many decades of
