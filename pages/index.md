@@ -5,12 +5,6 @@ permalink: /
 credits: true
 ---
 
-# Digital History Project
+# Women and Their Labor in the Twentieth Century of the United States
 
-This is the project site for the HIST 320 digital history project. Instructions for how to use this site to write your multimedia essay can be found at the accompanying documentation site, <https://learn-static.github.io/hist-320/web-setup.html>.
-
-Your Essay in Progress will be written on the [Essay In Progress](/essay-01.html) page, while your final essay will be written on the [Final Essay](/essay-02.html) page. 
-
-Links to all of the State of the Union Addresses and Party Platforms used in our text analysis and topic modeling can be found on the [Data](/data.html) page.
-
-[Topic visualizations](/topics/sotu-20th-century-topics.html) will appear as you name them, and you can use the [Include Generator](/generator.html) page to create code that includes supporting documents and images into your essays.
+Welcome to my website! Here you will find my essay for University of Idaho's history 320 class in the Spring of 2022.  My essay focuses on the intersection of gender and labor in the twentieth century United States.  Labor for women could be paid or unpaid, domestic or in the workplace.  This labor motivated women to fight for suffrage, seek to enter the job market outside of their homes, and attempt to enter the political sphere.  Hope you enjoy!
