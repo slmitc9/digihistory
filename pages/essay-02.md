@@ -71,7 +71,7 @@ campaigning, protests, and even jail time.  They were allowed to work outside th
 [^5]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 
 [^6]: National Photo Co., Washington, D.C. National Woman's Party activists watch Alice Paul sew a star onto the NWP Ratification Flag, representing another state's
-ratification of the 19th Amendment. United States Washington D.C, ca. 1919. Photograph.
+ ratification of the 19th Amendment. United States Washington D.C, ca. 1919. Photograph.
 
 [^7]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 
