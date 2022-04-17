@@ -63,18 +63,15 @@ campaigning, protests, and even jail time.  They were allowed to work outside th
 [^1]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 [^2]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 [^3]: Women of Protest: Photographs from the Records of the National Woman's Party, Manuscript Division, Library of Congress, Washington, D.C.
-https://www.loc.gov/collections/women-of-protest/about-this-collection/rights-and-access/
 [^4]: Harris & Ewing, Washington, D.C. Women marching in national suffrage demonstration in Washington, D.C., May 9. United States Washington D.C, 1914. May 9. Photograph.
-https://www.loc.gov/item/mnwp000268/.
 [^5]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015
 [^6]: National Photo Co., Washington, D.C. National Woman's Party activists watch Alice Paul sew a star onto the NWP Ratification Flag, representing another state's
-ratification of the 19th Amendment. United States Washington D.C, ca. 1919. [to 1920] Photograph. https://www.loc.gov/item/mnwp000263/.
+ratification of the 19th Amendment. United States Washington D.C, ca. 1919. [to 1920] Photograph. 
 [^7]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 [^8]: Sawaya, Francesca. Modern Women, Modern Work : Domesticity, Professionalism, and American Writing, 189-195. Philadelphia: University of Pennsylvania Press, 2003.
 Accessed March 13, 2022. ProQuest Ebook Central.
 [^9]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
-[^10]: Sawaya, Francesca. Modern Women, Modern Work : Domesticity, Professionalism, and American Writing, 189-195. Philadelphia: University of Pennsylvania Press, 2003.
-Accessed March 13, 2022. ProQuest Ebook Central.
+[^10]: Sawaya, Francesca. Modern Women, Modern Work : Domesticity, Professionalism, and American Writing, 189-195. Philadelphia: University of Pennsylvania Press, 2003. Accessed March 13, 2022. ProQuest Ebook Central.
 [^11]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 [^12]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
 [^13]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
