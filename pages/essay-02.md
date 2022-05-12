@@ -8,7 +8,7 @@ permalink: /essay-02.html
 
 ---
 
-{% include feature/image.html filename="sotu-word-cloud.png" alt="image of a word cloud generated from Party Platform texts from the years 1900-1944" width="75" %}
+{% include feature/image.html filename="Womens_rights.jpg" alt="rights" width="50" %}
 
 ## Introduction
 
