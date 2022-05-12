@@ -61,6 +61,10 @@ The first half of the twentieth century was a turning point for women’s rights
 
 The second half of the twentieth century saw further societal changes regarding women’s rights.  Women fought for equal rights within the workplace, rights to access birth control and health services on their own terms, and rights related to practicing their sexuality the way they wanted to without repercussions related to homophobia.  All of these rights (and the rights discussed in the first half of this essay) were centered around a certain amount of intersectionality relating to race, gender, and sexuality.  To dive into a full analysis of these types of intersectionality would require this paper to be much longer than the page or time limit allows, but it would be ideal for the reader to keep issues regarding this intersectionality in mind throughout these following paragraphs.  
 
+## Second Wave of Feminism
+
+Historically speaking, women’s labor throughout the twentieth century was never considered equal to that of a man’s labor and this disparity became increasingly clear in regard to pay differences between men and women who were working the same jobs with the same responsibilities.  On average women only made about 59 percent of what a man might make at the same workplace despite no difference in title or job description. [^17]  In the 1960’s and 70’s women began to protest these differences and a host of other inequalities, commonly known as the women’s liberation movement and regarded as the second wave of feminism in the United States. [^18]  Betty Friedan was one of the women who spearheaded this movement and the National Organization for Women, known as NOW (Gilmore and Sugrue).  Friedan and many of the women fighting alongside her simply wanted to be treated as equals in the workplace, a workplace that in the beginning of the century was not even available to them.  Despite the progress that had been made by the women that came before them, they knew the fight was not over.  A quote from Friedan sums up their attitude perfectly, asking lawmakers and politicians “to bring women into full participation in the mainstream of American society now, assuming all the privileges and responsibilities thereof in truly equal partnership with men.” [^19] 
+
 	
 ## Notes
 
@@ -95,3 +99,9 @@ The second half of the twentieth century saw further societal changes regarding 
 [^15]: Breiseth, Christopher. "The Frances Perkins I Knew." ensayo, Franklin D. Roosevelt American Heritage Center Museum, Worcester (1966).
 
 [^16]: Breiseth, Christopher. "The Frances Perkins I Knew." ensayo, Franklin D. Roosevelt American Heritage Center Museum, Worcester (1966).
+
+[^17]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
+
+[^18]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making: 1890 to the Present. WW Norton & Company, 2015.
+
+[^19]: Friedan, Betty. National Organization of Women, An Invitation to Join. September 1966.
